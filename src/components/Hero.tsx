@@ -1,6 +1,6 @@
 import { Button } from '@/components/ui/button';
 import { ChevronDown, Download, Mail, ArrowRight, Sparkles, Dna } from 'lucide-react';
-import mariamProfile from '@/assets/mariam-profile-new.jpg';
+import mariamProfile from '@/assets/mariam-profile-latest.jpg';
 import biotechBg from '@/assets/biotech-hero-bg.jpg';
 
 const Hero = () => {
