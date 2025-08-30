@@ -76,6 +76,7 @@ export default {
 				'gradient-primary': 'var(--gradient-primary)',
 				'gradient-card': 'var(--gradient-card)',
 				'gradient-hero': 'var(--gradient-hero)',
+				'gradient-radial': 'radial-gradient(circle, var(--tw-gradient-stops))',
 			},
 			boxShadow: {
 				'glow': 'var(--shadow-glow)',
