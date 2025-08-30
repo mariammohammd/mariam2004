@@ -1,6 +1,6 @@
 import { Button } from '@/components/ui/button';
 import { ChevronDown, Download, Mail, ArrowRight, Sparkles, Dna } from 'lucide-react';
-import mariamProfile from '@/assets/mariam-profile.jpg';
+import mariamProfile from '@/assets/mariam-profile-new.jpg';
 import biotechBg from '@/assets/biotech-hero-bg.jpg';
 
 const Hero = () => {
@@ -118,7 +118,7 @@ const Hero = () => {
               {/* Glassmorphism Container */}
               <div className="relative p-8 backdrop-blur-lg bg-gradient-to-br from-white/10 to-white/5 rounded-3xl border border-white/20">
                 {/* Profile Image */}
-                <div className="w-80 h-80 lg:w-96 lg:h-96 rounded-2xl overflow-hidden relative group">
+                <div className="w-80 h-80 lg:w-96 lg:h-96 rounded-full overflow-hidden relative group border-4 border-primary/20">
                   <img 
                     src={mariamProfile} 
                     alt="Mariam Mohamed Maher Hamed Baker - Biotechnology Specialist"
