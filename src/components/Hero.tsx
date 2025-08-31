@@ -52,13 +52,12 @@ const Hero = () => {
 
             {/* Main Heading */}
             <div className="space-y-6">
-              <h1 className="text-5xl lg:text-8xl font-bold font-poppins leading-tight">
-                <span className="block text-foreground">Mariam</span>
-                <span className="block text-gradient relative">
-                  Mohamed
+              <h1 className="text-4xl lg:text-6xl font-bold font-poppins leading-tight">
+                <span className="block text-4xl lg:text-7xl text-gradient relative">
+                  Mariam Mohamed
                   <div className="absolute -inset-1 bg-gradient-primary rounded-lg blur opacity-20"></div>
                 </span>
-                <span className="block text-2xl lg:text-4xl font-medium text-muted-foreground mt-4">
+                <span className="block text-3xl lg:text-5xl text-gradient mt-2">
                   Maher Hamed Baker
                 </span>
               </h1>
@@ -72,9 +71,14 @@ const Hero = () => {
                   <span className="px-3 py-1 bg-primary/20 text-primary rounded-full font-medium">Bioinformatics</span>
                 </div>
                 
-                <p className="text-xl lg:text-2xl text-muted-foreground font-medium max-w-2xl">
-                  Combining scientific expertise in genetics and biotechnology with advanced data analysis 
-                  skills to advance bioinformatics and make research more accessible.
+                <p className="text-lg lg:text-xl text-muted-foreground font-medium max-w-2xl">
+                  Biotechnology Specialist | Genetics & Data Analysis | Bioinformatics Enthusiast
+                </p>
+                
+                <p className="text-base lg:text-lg text-muted-foreground max-w-3xl">
+                  Mariam is a Biotechnology graduate specialized in genetics, genetic engineering, and mutations. 
+                  She combines her scientific expertise with strong data analysis skills to advance bioinformatics 
+                  and make research more accessible and applicable.
                 </p>
               </div>
             </div>

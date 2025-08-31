@@ -8,7 +8,7 @@ const Portfolio = () => {
       title: 'Superstore Sales Analysis Dashboard',
       category: 'Data Analysis',
       description: 'Comprehensive analysis of retail sales data with interactive visualizations, identifying key trends, seasonal patterns, and performance metrics across different product categories and regions.',
-      image: '/lovable-uploads/48037f10-1219-4746-9167-48bf85070d43.png',
+      image: '/lovable-uploads/be38704a-d481-4b0c-a2ab-1ebc78fbd579.png',
       technologies: ['Power BI', 'Excel', 'Data Visualization', 'Statistical Analysis'],
       features: [
         'Interactive sales dashboard',
